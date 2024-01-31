@@ -1,0 +1,99 @@
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.GiaoDienNhap.resources
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.Properties.Resources.resources
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.GenerateResource.cache
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe.config
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.pdb
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.exe
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.pdb
+C:\Users\Vermouth\Desktop\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapNhanVien.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe.config
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.pdb
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.AssemblyReference.cache
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.SuggestedBindingRedirects.cache
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapKhachHang.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapNhanVien.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.Properties.Resources.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.GenerateResource.cache
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.CoreCompileInputs.cache
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.exe
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.pdb
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaCC.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaSX.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.BaoHanh.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmHoaDonBan.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe.config
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.pdb
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.AssemblyReference.cache
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.BaoHanh.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmHoaDonBan.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaCC.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapKhachHang.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapNhanVien.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaSX.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.Properties.Resources.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.GenerateResource.cache
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.CoreCompileInputs.cache
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.exe
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.pdb
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.SuggestedBindingRedirects.cache
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmMau.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe.config
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.pdb
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.AssemblyReference.cache
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.BaoHanh.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmMau.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaCC.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapKhachHang.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapNhanVien.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaSX.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.Properties.Resources.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.GenerateResource.cache
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.CoreCompileInputs.cache
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.exe
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.pdb
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmTimKiem.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe.config
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.exe
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\bin\Debug\36_41_ShopBanDienThoai.pdb
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.AssemblyReference.cache
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.SuggestedBindingRedirects.cache
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.BaoHanh.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmHoaDonBan.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmMau.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaCC.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapKhachHang.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmnhapNhanVien.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmNhaSX.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmTimKiem.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.GiaoDienNhap.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.Properties.Resources.resources
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.GenerateResource.cache
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.csproj.CoreCompileInputs.cache
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.exe
+D:\LTWin\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\36_41_ShopBanDienThoai.pdb
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmTimKiem.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmMau.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmTimKiem.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmMauHienThi.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmMauHienThi.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmDienThoai.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.GiaoDienChinh.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmDienThoai.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmMauHienThi.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmSanpham.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.GiaoDienChinh.resources
+E:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.btnLuu.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmDienThoai.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmSanpham.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.GiaoDienChinh.resources
+F:\LTWINDOWS\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.btnLuu.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmSanpham.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.frmHoaDonBan.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.timKiemDonhang.resources
+D:\HK4\Lập trình Window\Bài_tập\36_41_ShopBanDienThoai\36_41_ShopBanDienThoai\obj\Debug\_36_41_ShopBanDienThoai.HoaDonBan.resources

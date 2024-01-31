@@ -1,0 +1,178 @@
+body{
+
+    background-color: silver ;
+    
+}
+
+.thuonghieu{
+    font-size: 200px;
+    color:darkred;   
+    border-right: 200px solid darkred;
+    border-left : 200px solid darkred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.ds{
+    font-size: 50px;
+    color: rgb(10, 103, 48);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 100px solid black ;
+    border-top: 60px;
+    border-bottom: 60px;
+   margin-top: 10px;
+}
+
+.hotro{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+    border-left: 150px solid;
+    border-right: 150px solid;
+    border-color: black;
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+
+
+}
+
+
+
+.from file{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.seach{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid rgb(172, 13, 13);
+    border-radius: 10px;
+    width: 50%;
+    height: 60px;
+    transition: 0.25s ease;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.form-file{
+    position: relative;
+   
+}
+.form-lable{
+    
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 26%;
+    user-select: none;
+    transition: 0.25s ease;
+}
+.seach:focus+.form-lable{
+   top: 0;
+   padding: 10px;
+   display: inline-block;
+   background-color: white;
+}
+.lable{
+    text-align: center;
+}
+
+#id1{
+    
+    padding-top: 20px;                                                                                                                                                                              
+    font-size:30px ;
+}
+
+#sale{
+   
+    color:rgb(17, 192, 17)
+}
+@keyframes my {
+0% { color: #220af8; }
+50% { color: #fff; }
+100% { color: #f80a0a; }
+}
+.text-animation {
+background:none; 
+font-size:80px;
+font-weight:bold;
+animation: my 700ms infinite;
+}
+#spbc{
+    
+    color:rgb(17, 192, 17)
+}
+#new{
+    color:rgb(17, 192, 17);
+    
+}
+.anh{
+    width: 260px;
+    height: 400px;
+    z-index: 0;
+    padding-top: 50px;
+    padding-bottom: 17px;
+}
+
+
+.muc_sp{
+   
+    color:black;
+    background-color:rgb(219, 233, 246);
+    
+}
+.nengia{
+    background-color: rgba(22, 230, 67, 0.844);
+}
+.ok{
+    
+    transition: transform .2s;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.ok:hover{
+    transform: scale(1.1);
+    
+}
+.ok1{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 18px;
+}
+/*---------------------------Chân Trang--------------------------*/
+
+/*------------------*/
+
+.sao{
+    color: rgb(204, 204, 9);
+    text-align: center;
+}
+
+
+*
+{
+    text-decoration: none;
+}
+.row{
+    font-size: 18px;
+}
+.ten-ruou{
+    font-size: 30px;
+    color: rgb(218, 18, 18);
+}
+.money{
+    color: rgb(217, 31, 41);
+}
+/*
+check hidden*/
+
